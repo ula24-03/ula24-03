@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Ulugbek Abdullayev!
 
-<!--
-**ula24-03/ula24-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python Backend Developer
 
-Here are some ideas to get you started:
+I'm an Information Systems and Technologies student from Samarkand, Uzbekistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning backend development and building practical software projects.
+
+Tech Stack
+
+- Languages: Python, SQL
+- Backend: FastAPI, Flask
+- Databases: SQLite, learning PostgreSQL
+- Developer Tools: Git, GitHub, Linux, Termux
+
+Currently Learning
+
+- REST API development
+- Database design
+- Authentication and authorization
+- Backend testing
+- Clean code practices
+
+Projects
+
+I'm working on Python backend projects, including educational platforms and management systems. Completed projects will be linked here.
+
+Career Goal
+
+To become a Junior Python Backend Developer and contribute to real-world software projects.
+
+Let's Connect
+
+I'm open to learning, collaboration, and junior developer opportunities.
