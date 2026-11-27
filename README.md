@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/ua-banner.png" width="100%" alt="UA Developer"></p>
+
 <h1 align="center">Ulugbek Abdullayev</h1>
 
 <h3 align="center">
