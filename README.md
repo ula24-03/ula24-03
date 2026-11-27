@@ -1,34 +1,116 @@
-Hi, I'm Ulugbek Abdullayev!
+<h1 align="center">Ulugbek Abdullayev</h1>
 
+<h3 align="center">
 Aspiring Python Backend Developer
+</h3>
 
-I'm an Information Systems and Technologies student from Samarkand, Uzbekistan.
+<p align="center">
+Building practical software | Learning backend engineering
+</p>
 
-I'm learning backend development and building practical software projects.
+---
 
-Tech Stack
+## About Me
 
-- Languages: Python, SQL
-- Backend: FastAPI, Flask
-- Databases: SQLite, learning PostgreSQL
-- Developer Tools: Git, GitHub, Linux, Termux
+- Information Systems and Technologies student.
+- Focused on Python backend development.
+- Building practical full-stack applications.
+- Interested in software architecture and databases.
+- Open to junior and internship opportunities.
 
-Currently Learning
+## Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+---
+
+## Featured Projects
+
+### EduCore CRM Pro
+
+Education management platform.
+
+- REST API with FastAPI
+- Role-based access control
+- Student and course management
+- Attendance and payment tracking
+- SQLite database
+- Automated testing
+
+[View Repository](https://github.com/ula24-03/educore-crm-pro)
+
+### DevTask Manager
+
+Developer task management application.
+
+- Flask backend
+- CRUD operations
+- SQLite database
+- Responsive dashboard
+- Automated API tests
+
+[View Repository](https://github.com/ula24-03/devtask-manager)
+
+### PC System Monitor
+
+Real-time computer resource monitoring dashboard.
+
+- CPU monitoring
+- Memory and disk usage
+- Performance visualization
+- Python and psutil
+
+[View Repository](https://github.com/ula24-03/pc-system-monitor)
+
+---
+
+## Engineering Skills
 
 - REST API development
-- Database design
+- Relational database design
 - Authentication and authorization
-- Backend testing
-- Clean code practices
+- Input validation
+- Automated testing
+- Git version control
+- GitHub Actions
+- Technical documentation
 
-Projects
+## Currently Learning
 
-I'm working on Python backend projects, including educational platforms and management systems. Completed projects will be linked here.
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Docker
+- Clean Architecture
+- Design Patterns
+- Data Structures and Algorithms
 
-Career Goal
+## Development Environment
 
-To become a Junior Python Backend Developer and contribute to real-world software projects.
+- Windows
+- Linux
+- Android Termux
+- Visual Studio Code
 
-Let's Connect
+## Development Approach
 
-I'm open to learning, collaboration, and junior developer opportunities.
+I build educational and portfolio projects,
+including AI-assisted development.
+
+My focus is understanding the code, testing
+its behavior, improving its quality, and
+developing independent engineering skills.
+
+---
+
+<p align="center">
+Learning. Building. Improving.
+</p>
